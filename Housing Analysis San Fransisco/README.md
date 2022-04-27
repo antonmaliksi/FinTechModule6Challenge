@@ -61,11 +61,11 @@ Please reference the following screenshots for guidance with any changes within 
 
 San Fransisco                         |  Los Angeles
 :------------------------------------:|:------------------------:
-![Alt text](url)                      |  ![Alt text](url)
+![Alt text](https://github.com/antonmaliksi/FinTechModule6Challenge/blob/main/Housing%20Analysis%20San%20Fransisco/Readme%20Resources/san_fransisco.PNG)                      |  ![Alt text](https://github.com/antonmaliksi/FinTechModule6Challenge/blob/main/Housing%20Analysis%20San%20Fransisco/Readme%20Resources/los_angeles.PNG)
 
 Dropdown Menu                         |  Selecting a Neighborhood
 :------------------------------------:|:------------------------:
-![Alt text](url)                      |  ![Alt text](url)
+![Alt text](https://github.com/antonmaliksi/FinTechModule6Challenge/blob/main/Housing%20Analysis%20San%20Fransisco/Readme%20Resources/dropdown.PNG)                      |  ![Alt text](https://github.com/antonmaliksi/FinTechModule6Challenge/blob/main/Housing%20Analysis%20San%20Fransisco/Readme%20Resources/dropdown_select.PNG)
 
 ---
 
